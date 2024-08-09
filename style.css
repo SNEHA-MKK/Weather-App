@@ -1,0 +1,49 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+ 
+}
+
+body{
+    background-image:url('https://c1.wallpaperflare.com/preview/105/785/174/sky-cloud-plane-background.jpg');
+    /* background-image: linear-gradient(to right,rgba(150, 92, 92, 0.925),rgba(155, 100, 100, 0.925),rgb(70, 70, 107)); */
+    background-repeat: no-repeat;
+    background-size: cover;    
+    height: 800px;
+    /* background-position: center; */
+
+}
+.maindetails
+{
+  color: black;
+  /* font-weight: 800; */
+}
+
+.subdetails{
+  
+
+  color:black;
+  /* font-weight: 800; */
+
+}
+
+
+  /* ::placeholder {
+    font-weight: 900;
+    color: white;
+  }
+  ::-ms-input-placeholder { /* Edge 12-18 
+    color: white;
+  } */
+ 
+
+    input::placeholder {
+        color:black;
+        opacity: 100%;
+        /* Firefox */
+      }
+
+      #output{
+        display: none;
+      }
